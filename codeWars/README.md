@@ -1,0 +1,1 @@
+Just a fun folder to keep and brain storm on some ideas for code wars
