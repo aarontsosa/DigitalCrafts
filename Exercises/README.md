@@ -1,0 +1,1 @@
+A file to store exercises we do in python. Nothing to special.
